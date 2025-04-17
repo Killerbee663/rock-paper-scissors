@@ -2,10 +2,6 @@
 
 A fun and interactive web-based Rock Paper Scissors game where you play against a JavaScript-powered opponent. Choose your weapon, watch your opponent make their move, and see who wins!
 
-## 🚀 Live Demo
-
-> [Add your GitHub Pages or live link here if hosted]
-
 ## 🛠️ Features
 
 - Simple and clean user interface
