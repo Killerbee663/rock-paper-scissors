@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "./Game page/index.html"
+  to = "/index.html"
   status = 200
